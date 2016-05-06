@@ -1,0 +1,4209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"patientRole"
+			],
+			[
+				"login",
+				"loginOperator"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"pat",
+				"patients"
+			],
+			[
+				"my",
+				"mySource"
+			],
+			[
+				"al",
+				"align	Attr"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"patie",
+				"patient"
+			],
+			[
+				"patien",
+				"patientRole"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"repo",
+				"reportUpdate"
+			],
+			[
+				"op",
+				"operatorRole"
+			],
+			[
+				"n",
+				"numbers"
+			],
+			[
+				"array_wa",
+				"array_walker"
+			],
+			[
+				"min",
+				"minute"
+			],
+			[
+				"mi",
+				"minutes"
+			],
+			[
+				"m",
+				"min"
+			],
+			[
+				"fgets",
+				"fgets"
+			],
+			[
+				"isin",
+				"is_int"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"s",
+				"sticks"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"arr",
+				"array_fill"
+			],
+			[
+				"arra",
+				"array_fill"
+			],
+			[
+				"a",
+				"actualmonth"
+			],
+			[
+				"ex",
+				"expectedmonth"
+			],
+			[
+				"ac",
+				"actual"
+			],
+			[
+				"dayornight",
+				"dayornight"
+			],
+			[
+				"coun",
+				"country_name"
+			],
+			[
+				"dayo",
+				"dayorNight"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"sy",
+				"symbol"
+			],
+			[
+				"sun",
+				"sunrise"
+			],
+			[
+				"su",
+				"sunset"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"sha",
+				"shape"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"con",
+				"constant"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"De",
+				"DEBUG"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"de",
+				"depthCount"
+			],
+			[
+				"stru",
+				"structure"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"e",
+				"emp1"
+			],
+			[
+				"ptr",
+				"ptr1"
+			],
+			[
+				"pnt",
+				"pntr"
+			],
+			[
+				"pntr",
+				"pntrpntr"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"ans",
+				"answerornot"
+			],
+			[
+				"showa",
+				"showanswers"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"qu",
+				"question"
+			],
+			[
+				"pr",
+				"previewanswers"
+			],
+			[
+				"downl",
+				"download"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"exa",
+				"exam"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lis",
+				"lists"
+			],
+			[
+				"jqx",
+				"jqxExpander"
+			],
+			[
+				"q",
+				"questions"
+			],
+			[
+				"bra",
+				"branch_id"
+			],
+			[
+				"na",
+				"navigate"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"sub",
+				"subcategory"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"subc",
+				"subcategories"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"data",
+				"data_types"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"cl",
+				"clipboard"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"br",
+				"branch_id"
+			],
+			[
+				"Ca",
+				"category"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"btn",
+				"btn-social"
+			],
+			[
+				"fla",
+				"flash_message"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"o",
+				"oauth"
+			],
+			[
+				"ty",
+				"typename"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"mra",
+				"margin-bottom"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"ech",
+				"echo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "vendor/phpmailer/phpmailer/class.smtp.php",
+			"settings":
+			{
+				"buffer_size": 39906,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+			"settings":
+			{
+				"buffer_size": 5734,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/crossover-delivery/Readme.txt",
+			"settings":
+			{
+				"buffer_size": 1394,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/PdfController.php",
+			"settings":
+			{
+				"buffer_size": 1216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/TestController.php",
+			"settings":
+			{
+				"buffer_size": 3133,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/classpreloader/classpreloader/src/Config.php",
+			"settings":
+			{
+				"buffer_size": 2366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Auth/AuthController.php",
+			"settings":
+			{
+				"buffer_size": 2270,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/auth/login.blade.php",
+			"settings":
+			{
+				"buffer_size": 2840,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+			"settings":
+			{
+				"buffer_size": 268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+			"settings":
+			{
+				"buffer_size": 1740,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Middleware/RedirectIfAuthenticated.php",
+			"settings":
+			{
+				"buffer_size": 526,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 487,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/laravel/framework/readme.md",
+			"settings":
+			{
+				"buffer_size": 2261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/services.php",
+			"settings":
+			{
+				"buffer_size": 980,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/mail.php",
+			"settings":
+			{
+				"buffer_size": 3977,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2014_10_12_000000_create_users_table.php",
+			"settings":
+			{
+				"buffer_size": 747,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/app.php",
+			"settings":
+			{
+				"buffer_size": 8666,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.php",
+			"settings":
+			{
+				"buffer_size": 1786,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 833,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/bican/roles/src/Bican/Roles/Contracts/HasRoleAndPermission.php",
+			"settings":
+			{
+				"buffer_size": 3763,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Report.php",
+			"settings":
+			{
+				"buffer_size": 703,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 475,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Controller.php",
+			"settings":
+			{
+				"buffer_size": 438,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/mockery/mockery/docs/reference/startup_methods.rst",
+			"settings":
+			{
+				"buffer_size": 8986,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Providers/AppServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 448,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/ReportController.php",
+			"settings":
+			{
+				"buffer_size": 5032,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/MailController.php",
+			"settings":
+			{
+				"buffer_size": 2355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/pdf/report.blade.php",
+			"settings":
+			{
+				"buffer_size": 1049,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Policies/ReportPolicy.php",
+			"settings":
+			{
+				"buffer_size": 593,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Providers/AuthServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/common/errors.blade.php",
+			"settings":
+			{
+				"buffer_size": 369,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n\nnamespace App\\Http\\Controllers;\n\nuse Illuminate\\Http\\Request;\n\nuse App\\Http\\Requests;\n//use App\\Repositories\\TaskRepository;\nuse App\\Task;\n\n\nclass TaskController extends Controller\n{\n    //\n    protected $tasks;\n\n    public function __construct($tasks)\n    {\n    	$this->middleware('auth');\n\n    	$this->tasks=$tasks;\n    }\n\n    public function index(Request $request)\n	{\n	    $tasks = $this->tasks->foruser($request->user());\n\n	    return view('tasks.index',compact('tasks'));\n	}\n\n	public function store(Request $request)\n	{\n		\n		$this->validate($request,[\n			'name'=>'required|max:255'\n			]);\n		$request->user()->tasks()->create(['name' => $request->name]);\n\n		return redirect('/tasks');\n	}\n\n	public function destroy(Request $request, Task $task)\n	{\n		$this->authorize('destroy', $task);\n		$task->delete();\n    	return redirect('/tasks');\n	}\n}\n",
+			"settings":
+			{
+				"buffer_size": 853,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/reports/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 1652,
+				"line_ending": "Windows",
+				"name": "@extends('layouts.app')"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/PatientController.php",
+			"settings":
+			{
+				"buffer_size": 4400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/auth/register.blade.php",
+			"settings":
+			{
+				"buffer_size": 3786,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/patients/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 1627,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/reports/show.blade.php",
+			"settings":
+			{
+				"buffer_size": 5610,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tests/ExampleTest.php",
+			"settings":
+			{
+				"buffer_size": 406,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/GuestTest.php",
+			"settings":
+			{
+				"buffer_size": 1268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/OperatorTest.php",
+			"settings":
+			{
+				"buffer_size": 1535,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/PatientControllerTest.php",
+			"settings":
+			{
+				"buffer_size": 1214,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/ReportControllerTest.php",
+			"settings":
+			{
+				"buffer_size": 1251,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/TestControllerTest.php",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/factories/ModelFactory.php",
+			"settings":
+			{
+				"buffer_size": 887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/PatientTest.php",
+			"settings":
+			{
+				"buffer_size": 1825,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/app.scss",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/patients/show.blade.php",
+			"settings":
+			{
+				"buffer_size": 1889,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/reports/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 657,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/patients/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 1158,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/patients/edit.blade.php",
+			"settings":
+			{
+				"buffer_size": 823,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/reports/edit.blade.php",
+			"settings":
+			{
+				"buffer_size": 725,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/tests/edit.blade.php",
+			"settings":
+			{
+				"buffer_size": 646,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 4371,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Repositories/ReportRepository.php",
+			"settings":
+			{
+				"buffer_size": 1246,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
+			"settings":
+			{
+				"buffer_size": 1642,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bootstrap/cache/services.php",
+			"settings":
+			{
+				"buffer_size": 11311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Repositories/TestRepository.php",
+			"settings":
+			{
+				"buffer_size": 410,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Repositories/PatientRepository.php",
+			"settings":
+			{
+				"buffer_size": 601,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Exceptions/Handler.php",
+			"settings":
+			{
+				"buffer_size": 1379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/errors/403.blade.php",
+			"settings":
+			{
+				"buffer_size": 1104,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Console/Kernel.php",
+			"settings":
+			{
+				"buffer_size": 641,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Kernel.php",
+			"settings":
+			{
+				"buffer_size": 1734,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2015_01_15_105324_create_roles_table.php",
+			"settings":
+			{
+				"buffer_size": 1655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2016_04_28_143252_create_reports_table.php",
+			"settings":
+			{
+				"buffer_size": 1003,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "composer.json",
+			"settings":
+			{
+				"buffer_size": 1465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2016_04_28_143306_create_tests_table.php",
+			"settings":
+			{
+				"buffer_size": 823,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Test.php",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"make ",
+				"Build With: Make"
+			],
+			[
+				"make",
+				"Build With: Make"
+			],
+			[
+				"newfil",
+				"File: New View into File"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"d",
+				"SFTP: Delete Server…"
+			],
+			[
+				":new file",
+				"File: New View into File"
+			],
+			[
+				"",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"server",
+				"SFTP: Edit Server…"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"php artisan"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/lab",
+		"/C/xampp/htdocs/lab/bootstrap",
+		"/C/xampp/htdocs/lab/config",
+		"/C/xampp/htdocs/lab/database",
+		"/C/xampp/htdocs/lab/database/migrations",
+		"/C/xampp/htdocs/lab/resources",
+		"/C/xampp/htdocs/lab/resources/views",
+		"/C/xampp/htdocs/lab/resources/views/auth",
+		"/C/xampp/htdocs/lab/resources/views/common",
+		"/C/xampp/htdocs/lab/resources/views/errors",
+		"/C/xampp/htdocs/lab/resources/views/layouts",
+		"/C/xampp/htdocs/lab/resources/views/patients",
+		"/C/xampp/htdocs/lab/resources/views/pdf",
+		"/C/xampp/htdocs/lab/resources/views/reports",
+		"/C/xampp/htdocs/lab/resources/views/tasks",
+		"/C/xampp/htdocs/lab/resources/views/tests",
+		"/C/xampp/htdocs/lab/storage",
+		"/C/xampp/htdocs/lab/storage/logs",
+		"/C/xampp/htdocs/lab/tests"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/lab/app/Http/routes.php",
+		"/C/xampp/htdocs/lab/storage/logs/laravel.log",
+		"/C/xampp/htdocs/lab/tests/RedirectionTest.php",
+		"/C/xampp/htdocs/lab/resources/views/pdf/report.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/lab/vendor/phpunit/phpunit/tests/TextUI/report-useless-tests.phpt",
+		"/C/xampp/htdocs/lab/vendor/barryvdh/laravel-dompdf/src/PDF.php",
+		"/C/xampp/htdocs/lab/tests/TestCase.php",
+		"/C/xampp/htdocs/lab/vendor/illuminate/html/HtmlServiceProvider.php",
+		"/C/xampp/htdocs/lab/app/Providers/PatientServiceProvider.php",
+		"/C/xampp/htdocs/lab/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/break_continue.test",
+		"/C/xampp/htdocs/lab/app/Http/Controllers/TaskController.php",
+		"/C/xampp/htdocs/lab/app/Http/Controllers/PatientController.php",
+		"/C/xampp/htdocs/lab/app/Http/Controllers/ReportController.php",
+		"/C/xampp/htdocs/lab/.env",
+		"/C/xampp/htdocs/lab/database/migrations/2016_04_28_143218_create_tasks_table.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/style 2.css",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Ahmed/Downloads/task1.html",
+		"/C/xampp/htdocs/klixoft/connect.php",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-build",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/C/xampp/htdocs/hackerrank/test.php",
+		"/C/xampp/htdocs/hackerrank/index.php",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Ahmed/Documents/valeo/bubble_sorting.c",
+		"/C/Users/Ahmed/Downloads/klixoftc_cbar2 (1).sql",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/000-default.conf",
+		"/C/xampp/htdocs/lumina/app/Weather.php",
+		"/C/xampp/htdocs/lumina/.env",
+		"/C/xampp/htdocs/lumina/lumina.php",
+		"/C/xampp/htdocs/lumina/resources/views/home.php",
+		"/C/xampp/htdocs/lumina/bootstrap/app.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.520/rainloop/v/1.9.2.343/app/templates/Views/User/LoginWelcome.html",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.885/rainloop/v/1.9.2.343/app/templates/Views/User/LoginWelcome.html",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.462/rainloop/v/1.9.2.343/app/templates/Views/User/Login.html",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.592/rainloop/v/1.9.2.343/app/templates/Index.html",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.838/rainloop/v/1.9.2.343/app/handle.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.720/index.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.653/rainloop/v/1.9.2.343/index.php.root",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/Login.html",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/php.ini",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/app.log",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.162/rainloop/v/1.9.2.343/app/templates/Views/Admin/AdminLogin.html",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.938/rainloop/v/1.9.2.343/app/templates/Views/User/Login.html",
+		"/C/xampp/htdocs/Source/runtime/mail/20150719-210224-3432-0423.eml",
+		"/C/xampp/htdocs/Source/runtime/mail/20150719-204113-5285-0905.eml",
+		"/C/xampp/htdocs/Source/views/layouts/main.php",
+		"/C/xampp/htdocs/Ahmed Hamed - Software Engineer - PHP/Readme.txt",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/000-default.conf",
+		"/C/xampp/htdocs/Source/models/User.php",
+		"/C/xampp/htdocs/Source/controllers/ArticleController.php",
+		"/C/xampp/htdocs/Source/models/Mailer.php",
+		"/C/xampp/htdocs/Source/web/index.php",
+		"/C/xampp/htdocs/Source/controllers/AuthController.php",
+		"/C/xampp/htdocs/Source/vendor/mpdf/mpdf/includes/functions.php",
+		"/C/Users/Ahmed/Downloads/newsportal (1).sql",
+		"/C/Users/Ahmed/Downloads/news-portal.sql",
+		"/C/xampp/plm_laravel/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/EsiTest.php",
+		"/C/xampp/htdocs/news_portal/public/index.php",
+		"/C/xampp/htdocs/zend/ZendSkeletonApplication/module/Album/view/album/album/index.phtml",
+		"/C/xampp/htdocs/zend/ZendSkeletonApplication/module/Album/module.php",
+		"/C/Users/Ahmed/Documents/softlock/TLV/ASN_TLV/test_files/ssl.crt",
+		"/C/Users/Ahmed/Documents/softlock/TLV/ASN_TLV/headers/config.h",
+		"/C/xampp/htdocs/assaf/.env",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/php.ini",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/squirrelmail.conf",
+		"/C/Users/Ahmed/Documents/valeo/oop.php",
+		"/C/xampp/htdocs/Escape-pack/.htaccess",
+		"/C/xampp/htdocs/ssl/ssl.crt",
+		"/C/Users/Ahmed/Documents/valeo/valeo exam/base64.c",
+		"/C/xampp/htdocs/embeddedcasts/resources/views/welcome.blade.php",
+		"/C/Users/Ahmed/Documents/valeo/check_prime.c",
+		"/C/Users/Ahmed/Documents/valeo/topics to be considered.txt",
+		"/C/Users/Ahmed/Documents/valeo/flip.c",
+		"/C/Users/Ahmed/Documents/valeo/example.c",
+		"/C/Users/Ahmed/Documents/valeo/machine.h",
+		"/C/Users/Ahmed/Documents/valeo/valeo exam/valeo (2).txt",
+		"/C/xampp/htdocs/ssl/ssl.key",
+		"/C/xampp/htdocs/charity/app/views/layouts/manager.blade.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/embeddedcasts.com.conf",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/ahmedhamed.net",
+		"/C/Users/Ahmed/Documents/valeo/sftp/sftp-config.json",
+		"/C/Users/Ahmed/Documents/valeo/valeo exam/sftp-config.json",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/hamed.foozee.net",
+		"/C/Users/Ahmed/Documents/valeo/prob6.c",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/Ahmed/Documents/valeo/prob5_decimal2binary.c",
+		"/C/Users/Ahmed/Documents/valeo/how to know endianess.txt",
+		"/C/Users/Ahmed/Documents/valeo/prob4.c",
+		"/C/Users/Ahmed/Documents/valeo/prob3.c",
+		"/C/Users/Ahmed/Documents/valeo/prob2.c",
+		"/C/Users/Ahmed/Documents/valeo/prob1.c",
+		"/C/Users/Ahmed/Documents/valeo/prob.c",
+		"/C/Users/Ahmed/Downloads/php/index.php",
+		"/C/Users/Ahmed/Downloads/index.php",
+		"/C/xampp/htdocs/alton/responder.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/default",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.env",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/htdocs/alton/connect.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/laravel-2015-05-29.log",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/.env",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/default-ssl.conf",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/.env.example",
+		"/C/Users/Ahmed/Documents/valeo/reverse_string.c",
+		"/C/Users/Ahmed/Documents/valeo/trz336D.tmp",
+		"/C/xampp/htdocs/New folder/laravel-2015-05-13.log",
+		"/C/xampp/htdocs/New folder/mysql_error.log",
+		"/C/xampp/mysql/bin/sha3er.sql",
+		"/C/xampp/htdocs/New folder/php.ini",
+		"/C/xampp/htdocs/New folder/laravel-2015-04-16.log",
+		"/C/xampp/htdocs/New folder/laravel-2015-04-21.log",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.env.example",
+		"/C/xampp/htdocs/sha3er/public/jqw/jqwidgets/styles/jqx.highcontrast.css",
+		"/C/xampp/htdocs/sha3er/vendor/vsmoraes/laravel-pdf/src/PdfFacade.php",
+		"/C/xampp/htdocs/sha3er/app/Question.php",
+		"/C/xampp/htdocs/sha3er/resources/views/partials/form.blade.php",
+		"/C/xampp/htdocs/charity/app/controllers/respondercontroller.php",
+		"/C/xampp/htdocs/sha3er/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"forg",
+			"de.jquery.com/ui/1.11.4/jquery-ui.js",
+			"ode.jquery.com/ui/1.11.4/jquery-ui.js",
+			"http://code.jquery.com/ui/1.11.4/jquery-ui.js",
+			"ui",
+			"find",
+			"findo",
+			"test",
+			"tests",
+			"this->tests",
+			"tests",
+			"getre",
+			"$this->report",
+			"getReportContent",
+			"autho",
+			"logou",
+			"time",
+			"zone",
+			"+2",
+			"gmt",
+			"utc",
+			"timez",
+			"@",
+			"getPatientsLis",
+			"getPatientsList",
+			"patien",
+			"danger",
+			"Lab",
+			"--",
+			"$options)==",
+			"$option)==",
+			"ssl",
+			"tests",
+			"mail",
+			"report",
+			"Report",
+			"laravel",
+			"Book",
+			"book",
+			"Report",
+			"report",
+			"Report",
+			"report",
+			"Report",
+			"report",
+			"Role",
+			"find",
+			"book",
+			"task",
+			"Task",
+			"task",
+			"tasl",
+			"task",
+			"503",
+			"403",
+			"503",
+			"",
+			"finish",
+			"show",
+			".",
+			"\n",
+			"\n\n",
+			".",
+			"=op",
+			"center",
+			"{{ asset('",
+			"view",
+			"views",
+			"rain",
+			"mail",
+			"rainloo",
+			"<input type=\"email\" class=\"i18n input-block-level inputEmail checkAutocomplete\" name=\"RainLoopEmail\" id=\"RainLoopEmail\" style=\"padding-right: 35px;\" autocorrect=\"off\" autocapitalize=\"off\" spellcheck=\"false\" data-bind=\"textInput: email, hasFocus: emailFocus\" data-i18n=\"[placeholder]LOGIN/LABEL_EMAIL\" placeholder=\"Email\">",
+			"input",
+			"timezo",
+			"phpmailer",
+			"mailer",
+			"phpmailer",
+			"phpmail",
+			"timez",
+			"array",
+			"main",
+			"preg_re",
+			"preg",
+			"mail",
+			"pass",
+			"mailer",
+			"news",
+			"imt",
+			"imts",
+			"news-portal",
+			"Album",
+			"modul",
+			"www",
+			"main",
+			"decode",
+			"main",
+			"\n$",
+			"error",
+			"red",
+			"select",
+			"max",
+			"post",
+			"max",
+			"post",
+			"server-id",
+			"mcr",
+			"int",
+			"60",
+			"pntr1",
+			"30",
+			"remov",
+			"30",
+			"execution",
+			"30",
+			"output",
+			"out",
+			"output",
+			"getcurren",
+			"getpa",
+			"get",
+			"preview",
+			"oncl",
+			"exam",
+			"source.url",
+			"jqxgrid",
+			"source",
+			"jqxgrid",
+			"grid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"test",
+			"Test",
+			"patient",
+			"Patient",
+			"patient",
+			"Patient",
+			"patient",
+			"Report",
+			"report",
+			"",
+			"\n",
+			"",
+			"\n",
+			"",
+			"=$op",
+			"",
+			"Article",
+			"pntr",
+			"{{ asset('jqw/",
+			"Override all"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "vendor/phpmailer/phpmailer/class.smtp.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7651,
+								7651
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4402.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5734,
+								5537
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3578.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/crossover-delivery/Readme.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1394,
+								1394
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 558.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/Controllers/PdfController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1107,
+								1107
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Http/Controllers/TestController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1946,
+								1946
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1523.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "vendor/classpreloader/classpreloader/src/Config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1514.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/Http/Controllers/Auth/AuthController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2261,
+								2261
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1159.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/auth/login.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2840,
+								2840
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1021.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								127
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 56,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1350,
+								1350
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 703.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 55,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/Http/Middleware/RedirectIfAuthenticated.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								471
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 47,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								113
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "vendor/laravel/framework/readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "config/services.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								564
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 76.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 45,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "config/mail.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								586,
+								597
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 46,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "database/migrations/2014_10_12_000000_create_users_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								593,
+								593
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 60,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "config/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8624,
+								8624
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3547.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 43,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "public/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 66,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								349
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 76.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 41,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "vendor/bican/roles/src/Bican/Roles/Contracts/HasRoleAndPermission.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "app/Report.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								607
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 165.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 44,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "app/Http/Controllers/HomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 42,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "app/Http/Controllers/Controller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								435
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 53,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "vendor/mockery/mockery/docs/reference/startup_methods.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 722.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 65,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "app/Providers/AppServiceProvider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 43.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "app/Http/Controllers/ReportController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5032,
+								5032
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 361.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "app/Http/Controllers/MailController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								889,
+								889
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 608.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "resources/views/pdf/report.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "app/Policies/ReportPolicy.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								525
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 133.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "app/Providers/AuthServiceProvider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								444,
+								444
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "resources/views/common/errors.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								369,
+								369
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 57,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 260.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 58,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "resources/views/reports/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"auto_name": "@extends('layouts.app')",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 133.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "app/Http/Controllers/PatientController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								196
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"spell_check": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2733.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "resources/views/auth/register.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2874,
+								2895
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 189.0,
+						"translation.y": 804.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 54,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "resources/views/patients/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "resources/views/reports/show.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								741,
+								741
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "tests/ExampleTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "tests/GuestTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								800,
+								800
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 829.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "tests/OperatorTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								506,
+								506
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "tests/PatientControllerTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1096,
+								1096
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 817.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "tests/ReportControllerTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1248,
+								1248
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 760.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "tests/TestControllerTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "database/factories/ModelFactory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								764,
+								764
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 133.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 44,
+					"file": "tests/PatientTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1528,
+								1528
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1254.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 45,
+					"file": "resources/assets/sass/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 51,
+					"type": "text"
+				},
+				{
+					"buffer": 46,
+					"file": "resources/views/patients/show.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1876,
+								1256
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 52,
+					"type": "text"
+				},
+				{
+					"buffer": 47,
+					"file": "resources/views/reports/create.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							],
+							[
+								490,
+								490
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 48,
+					"file": "resources/views/patients/create.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1009,
+								1009
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 49,
+					"file": "resources/views/patients/edit.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								605,
+								605
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 50,
+					"file": "resources/views/reports/edit.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								642,
+								642
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 51,
+					"file": "resources/views/tests/edit.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							],
+							[
+								461,
+								461
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 227.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 52,
+					"file": "resources/views/layouts/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								797,
+								797
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 81.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 53,
+					"file": "app/Repositories/ReportRepository.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1143,
+								1143
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 54,
+					"file": "vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								57
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 55,
+					"file": "bootstrap/cache/services.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 56,
+					"file": "app/Repositories/TestRepository.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 49,
+					"type": "text"
+				},
+				{
+					"buffer": 57,
+					"file": "app/Repositories/PatientRepository.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								201
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 58,
+					"file": "app/Exceptions/Handler.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 61,
+					"type": "text"
+				},
+				{
+					"buffer": 59,
+					"file": "resources/views/errors/403.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 60,
+					"file": "app/Console/Kernel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 63,
+					"type": "text"
+				},
+				{
+					"buffer": 61,
+					"file": "app/Http/Kernel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1549,
+								1549
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 434.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 62,
+					"type": "text"
+				},
+				{
+					"buffer": 62,
+					"file": "database/migrations/2015_01_15_105324_create_roles_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								700
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 64,
+					"type": "text"
+				},
+				{
+					"buffer": 63,
+					"file": "database/migrations/2016_04_28_143252_create_reports_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								835,
+								835
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 59,
+					"type": "text"
+				},
+				{
+					"buffer": 64,
+					"file": "composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								330
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 65,
+					"file": "database/migrations/2016_04_28_143306_create_tests_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								669,
+								669
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 50,
+					"type": "text"
+				},
+				{
+					"buffer": 66,
+					"file": "app/Test.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 48,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 300.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 232.0
+	},
+	"pinned_build_system": "Packages/User/PHP.sublime-build",
+	"project": "lab.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ro",
+				"app\\Http\\routes.php"
+			],
+			[
+				"repotc",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"pdf",
+				"app\\Http\\Controllers\\PdfController.php"
+			],
+			[
+				"rou",
+				"app\\Http\\routes.php"
+			],
+			[
+				"pdfc",
+				"app\\Http\\Controllers\\PdfController.php"
+			],
+			[
+				"apps",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"read",
+				"vendor\\laravel\\framework\\readme.md"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"lar",
+				"storage\\logs\\laravel.log"
+			],
+			[
+				"appse",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"log",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"app.bl",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"repo",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"app.bla",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"403",
+				"resources\\views\\errors\\403.blade.php"
+			],
+			[
+				"index",
+				"resources\\views\\reports\\index.blade.php"
+			],
+			[
+				"rout",
+				"app\\Http\\routes.php"
+			],
+			[
+				"repor",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"illuminate/foundation/auth/access",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\Access\\AuthorizesRequests.php"
+			],
+			[
+				"authorizesrequests",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\Access\\AuthorizesRequests.php"
+			],
+			[
+				"auths",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"authse",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"servi",
+				"bootstrap\\cache\\services.php"
+			],
+			[
+				"repoc",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"reportco",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"appser",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"oper",
+				"tests\\OperatorTest.php"
+			],
+			[
+				"reporc",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"model",
+				"database\\factories\\ModelFactory.php"
+			],
+			[
+				"reporco",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"ope",
+				"tests\\OperatorTest.php"
+			],
+			[
+				"patie",
+				"app\\Http\\Controllers\\PatientController.php"
+			],
+			[
+				"reportcon",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"sho",
+				"resources\\views\\reports\\show.blade.php"
+			],
+			[
+				"authc",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"edi",
+				"resources\\views\\reports\\edit.blade.php"
+			],
+			[
+				"inde",
+				"resources\\views\\reports\\index.blade.php"
+			],
+			[
+				"patient",
+				"app\\Http\\Controllers\\PatientController.php"
+			],
+			[
+				"app.",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"hasroleandpermission",
+				"vendor\\bican\\roles\\src\\Bican\\Roles\\Contracts\\HasRoleAndPermission.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"show",
+				"resources\\views\\reports\\show.blade.php"
+			],
+			[
+				"app.b",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
+			[
+				"testco",
+				"app\\Http\\Controllers\\TestController.php"
+			],
+			[
+				"repot",
+				"vendor\\phpunit\\phpunit\\tests\\TextUI\\report-useless-tests.phpt"
+			],
+			[
+				"env",
+				".env"
+			],
+			[
+				"ser",
+				"config\\services.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"crea",
+				"resources\\views\\reports\\create.blade.php"
+			],
+			[
+				"edit",
+				"resources\\views\\tests\\edit.blade.php"
+			],
+			[
+				"reportc",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"class.sm",
+				"vendor\\phpmailer\\phpmailer\\class.smtp.php"
+			],
+			[
+				"mail",
+				"config\\mail.php"
+			],
+			[
+				"config",
+				"vendor\\classpreloader\\classpreloader\\src\\Config.php"
+			],
+			[
+				"service",
+				"config\\services.php"
+			],
+			[
+				"rep",
+				"app\\Http\\Controllers\\ReportController.php"
+			],
+			[
+				"repor.b",
+				"resources\\views\\pdf\\report.blade.php"
+			],
+			[
+				"report",
+				"resources\\views\\pdf\\report.php"
+			],
+			[
+				"report.php",
+				"app\\Report.php"
+			],
+			[
+				"barryvdh/laravel-dompdf",
+				"vendor\\barryvdh\\laravel-dompdf\\src\\PDF.php"
+			],
+			[
+				"login",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"lo",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"login.",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"auth",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"testcon",
+				"app\\Http\\Controllers\\TestController.php"
+			],
+			[
+				"test",
+				"app\\Test.php"
+			],
+			[
+				"testc",
+				"tests\\TestCase.php"
+			],
+			[
+				"app.s",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"pati",
+				"app\\Http\\Controllers\\PatientController.php"
+			],
+			[
+				"creat",
+				"resources\\views\\patients\\create.blade.php"
+			],
+			[
+				"pat",
+				"app\\Http\\Controllers\\PatientController.php"
+			],
+			[
+				"register",
+				"resources\\views\\auth\\register.blade.php"
+			],
+			[
+				"patientc",
+				"app\\Http\\Controllers\\PatientController.php"
+			],
+			[
+				"create",
+				"resources\\views\\patients\\create.blade.php"
+			],
+			[
+				"registersusers",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"authenticatesandregistersusers",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"authco",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"authser",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"show.b",
+				"resources\\views\\reports\\show.blade.php"
+			],
+			[
+				"cre",
+				"resources\\views\\reports\\create.blade.php"
+			],
+			[
+				"create.p",
+				"resources\\views\\reports\\create.blade.php"
+			],
+			[
+				"illuminate/html/htmlserviceprovider.php",
+				"vendor\\illuminate\\html\\HtmlServiceProvider.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"illuminate/html/htmlserviceprovider",
+				"vendor\\illuminate\\html\\HtmlServiceProvider.php"
+			],
+			[
+				"cong",
+				"vendor\\classpreloader\\classpreloader\\src\\Config.php"
+			],
+			[
+				"taskcon",
+				"vendor\\nikic\\php-parser\\test\\code\\prettyPrinter\\stmt\\break_continue.test"
+			],
+			[
+				"han",
+				"app\\Exceptions\\Handler.php"
+			],
+			[
+				"kern",
+				"app\\Console\\Kernel.php"
+			],
+			[
+				"cont",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"start",
+				"vendor\\mockery\\mockery\\docs\\reference\\startup_methods.rst"
+			],
+			[
+				"createpermissionstable",
+				"database\\migrations\\2015_01_26_115212_create_permissions_table.php"
+			],
+			[
+				"cou",
+				"app\\Http\\Controllers\\CountryController.php"
+			],
+			[
+				"home",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"",
+				"public\\script\\script.js"
+			],
+			[
+				"sty",
+				"public\\css\\style.css"
+			],
+			[
+				"scr",
+				"public\\script\\script.js"
+			],
+			[
+				"coun",
+				"app\\Http\\Controllers\\CountryController.php"
+			],
+			[
+				"scri",
+				"public\\script\\script.js"
+			],
+			[
+				"styl",
+				"public\\css\\style.css"
+			],
+			[
+				"loc",
+				"app\\Http\\Controllers\\LocationController.php"
+			],
+			[
+				"wea",
+				"app\\Http\\Controllers\\WeatherController.php"
+			],
+			[
+				"homec",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"hom",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"lumi",
+				"C:\\xampp\\htdocs\\lumina.php"
+			],
+			[
+				"weath",
+				"app\\Http\\Controllers\\WeatherController.php"
+			],
+			[
+				"home.b",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"uplo",
+				"models\\Uploader.php"
+			],
+			[
+				"art",
+				"models\\Article.php"
+			],
+			[
+				"main.php",
+				"views\\layouts\\main.php"
+			],
+			[
+				"mpdf/mpdf/includes/f",
+				"vendor\\mpdf\\mpdf\\includes\\functions.php"
+			],
+			[
+				"artic",
+				"controllers\\ArticleController.php"
+			],
+			[
+				"site",
+				"vendor\\symfony\\http-kernel\\Symfony\\Component\\HttpKernel\\Tests\\HttpCache\\EsiTest.php"
+			],
+			[
+				"oop",
+				"valeo\\oop.php"
+			],
+			[
+				"welc",
+				"C:\\xampp\\htdocs\\embeddedcasts\\resources\\views\\welcome.blade.php"
+			],
+			[
+				"p",
+				"valeo\\prob.c"
+			],
+			[
+				"quespartia",
+				"resources\\views\\questions\\partials\\form.blade.php"
+			],
+			[
+				"flashmes",
+				"vendor\\laracasts\\flash\\src\\views\\message.blade.php"
+			],
+			[
+				"examind",
+				"resources\\views\\exams\\index.blade.php"
+			],
+			[
+				"exam",
+				"app\\Http\\Controllers\\ExamsController.php"
+			],
+			[
+				"que",
+				"app\\Http\\Controllers\\QuestionsController.php"
+			],
+			[
+				"quesinde",
+				"resources\\views\\questions\\index.blade.php"
+			],
+			[
+				"quesind",
+				"resources\\views\\questions\\index.blade.php"
+			],
+			[
+				"ques",
+				"app\\Http\\Controllers\\QuestionsController.php"
+			],
+			[
+				"toggl",
+				"public\\bootstrap\\js\\bootstrap-toggle.js"
+			],
+			[
+				"toggle",
+				"public\\bootstrap\\js\\bootstrap-toggle.js"
+			],
+			[
+				"quesin",
+				"app\\Question.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 848.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 374.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
